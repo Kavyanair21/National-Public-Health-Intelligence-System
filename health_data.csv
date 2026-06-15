@@ -1,0 +1,181 @@
+State,Month,Year,Cases
+Kerala,1,2023,170
+Kerala,2,2023,138
+Kerala,3,2023,150
+Kerala,4,2023,142
+Kerala,5,2023,142
+Kerala,6,2023,186
+Kerala,7,2023,180
+Kerala,8,2023,208
+Kerala,9,2023,190
+Kerala,10,2023,201
+Kerala,11,2023,139
+Kerala,12,2023,170
+Tamil Nadu,1,2023,118
+Tamil Nadu,2,2023,129
+Tamil Nadu,3,2023,123
+Tamil Nadu,4,2023,145
+Tamil Nadu,5,2023,125
+Tamil Nadu,6,2023,160
+Tamil Nadu,7,2023,177
+Tamil Nadu,8,2023,192
+Tamil Nadu,9,2023,148
+Tamil Nadu,10,2023,154
+Tamil Nadu,11,2023,145
+Tamil Nadu,12,2023,126
+Karnataka,1,2023,135
+Karnataka,2,2023,124
+Karnataka,3,2023,121
+Karnataka,4,2023,115
+Karnataka,5,2023,136
+Karnataka,6,2023,156
+Karnataka,7,2023,184
+Karnataka,8,2023,186
+Karnataka,9,2023,123
+Karnataka,10,2023,131
+Karnataka,11,2023,128
+Karnataka,12,2023,105
+Maharashtra,1,2023,309
+Maharashtra,2,2023,331
+Maharashtra,3,2023,280
+Maharashtra,4,2023,278
+Maharashtra,5,2023,304
+Maharashtra,6,2023,475
+Maharashtra,7,2023,382
+Maharashtra,8,2023,451
+Maharashtra,9,2023,362
+Maharashtra,10,2023,394
+Maharashtra,11,2023,259
+Maharashtra,12,2023,260
+Delhi,1,2023,252
+Delhi,2,2023,247
+Delhi,3,2023,214
+Delhi,4,2023,229
+Delhi,5,2023,238
+Delhi,6,2023,307
+Delhi,7,2023,287
+Delhi,8,2023,317
+Delhi,9,2023,274
+Delhi,10,2023,297
+Delhi,11,2023,239
+Delhi,12,2023,193
+Gujarat,1,2023,189
+Gujarat,2,2023,173
+Gujarat,3,2023,163
+Gujarat,4,2023,171
+Gujarat,5,2023,184
+Gujarat,6,2023,224
+Gujarat,7,2023,218
+Gujarat,8,2023,239
+Gujarat,9,2023,200
+Gujarat,10,2023,219
+Gujarat,11,2023,159
+Gujarat,12,2023,178
+Rajasthan,1,2023,123
+Rajasthan,2,2023,139
+Rajasthan,3,2023,142
+Rajasthan,4,2023,138
+Rajasthan,5,2023,147
+Rajasthan,6,2023,216
+Rajasthan,7,2023,210
+Rajasthan,8,2023,207
+Rajasthan,9,2023,155
+Rajasthan,10,2023,147
+Rajasthan,11,2023,150
+Rajasthan,12,2023,123
+Uttar Pradesh,1,2023,228
+Uttar Pradesh,2,2023,277
+Uttar Pradesh,3,2023,234
+Uttar Pradesh,4,2023,230
+Uttar Pradesh,5,2023,261
+Uttar Pradesh,6,2023,301
+Uttar Pradesh,7,2023,389
+Uttar Pradesh,8,2023,374
+Uttar Pradesh,9,2023,279
+Uttar Pradesh,10,2023,303
+Uttar Pradesh,11,2023,274
+Uttar Pradesh,12,2023,249
+West Bengal,1,2023,216
+West Bengal,2,2023,211
+West Bengal,3,2023,212
+West Bengal,4,2023,216
+West Bengal,5,2023,176
+West Bengal,6,2023,293
+West Bengal,7,2023,318
+West Bengal,8,2023,308
+West Bengal,9,2023,248
+West Bengal,10,2023,269
+West Bengal,11,2023,182
+West Bengal,12,2023,229
+Punjab,1,2023,105
+Punjab,2,2023,120
+Punjab,3,2023,112
+Punjab,4,2023,115
+Punjab,5,2023,113
+Punjab,6,2023,155
+Punjab,7,2023,162
+Punjab,8,2023,163
+Punjab,9,2023,135
+Punjab,10,2023,139
+Punjab,11,2023,125
+Punjab,12,2023,106
+Haryana,1,2023,132
+Haryana,2,2023,127
+Haryana,3,2023,125
+Haryana,4,2023,108
+Haryana,5,2023,108
+Haryana,6,2023,187
+Haryana,7,2023,153
+Haryana,8,2023,146
+Haryana,9,2023,145
+Haryana,10,2023,160
+Haryana,11,2023,135
+Haryana,12,2023,109
+Andhra Pradesh,1,2023,176
+Andhra Pradesh,2,2023,183
+Andhra Pradesh,3,2023,162
+Andhra Pradesh,4,2023,137
+Andhra Pradesh,5,2023,164
+Andhra Pradesh,6,2023,236
+Andhra Pradesh,7,2023,243
+Andhra Pradesh,8,2023,249
+Andhra Pradesh,9,2023,174
+Andhra Pradesh,10,2023,182
+Andhra Pradesh,11,2023,162
+Andhra Pradesh,12,2023,148
+Telangana,1,2023,171
+Telangana,2,2023,195
+Telangana,3,2023,180
+Telangana,4,2023,175
+Telangana,5,2023,179
+Telangana,6,2023,256
+Telangana,7,2023,253
+Telangana,8,2023,286
+Telangana,9,2023,201
+Telangana,10,2023,199
+Telangana,11,2023,161
+Telangana,12,2023,171
+Madhya Pradesh,1,2023,169
+Madhya Pradesh,2,2023,218
+Madhya Pradesh,3,2023,185
+Madhya Pradesh,4,2023,183
+Madhya Pradesh,5,2023,216
+Madhya Pradesh,6,2023,246
+Madhya Pradesh,7,2023,237
+Madhya Pradesh,8,2023,278
+Madhya Pradesh,9,2023,237
+Madhya Pradesh,10,2023,221
+Madhya Pradesh,11,2023,212
+Madhya Pradesh,12,2023,192
+Odisha,1,2023,113
+Odisha,2,2023,133
+Odisha,3,2023,117
+Odisha,4,2023,145
+Odisha,5,2023,140
+Odisha,6,2023,175
+Odisha,7,2023,162
+Odisha,8,2023,175
+Odisha,9,2023,170
+Odisha,10,2023,160
+Odisha,11,2023,133
+Odisha,12,2023,134
